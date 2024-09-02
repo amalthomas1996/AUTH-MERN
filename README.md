@@ -11,7 +11,7 @@ dependencies:
     "axios": "^1.7.5",
     "next": "14.2.6",
     "react": "^18",
-    "react-dom": "^18",
+    "react-dom": "^18"
     
 
 Folder Structure 
